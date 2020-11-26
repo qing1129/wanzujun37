@@ -13,7 +13,7 @@ int main() {
 //sort1(a, 8);
 //sort2(a, 8);
 //Insertsort(a, 8);
-Selectsort(a, 8);
+//Selectsort(a, 8);
 QuickSort(a, 8);       
      for (i=0; i<8; i++) { 
        printf(" %d",a[i]);
