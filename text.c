@@ -1,4 +1,4 @@
-#include"lianbiao1."
+#include"lianbiao1.h"
 
 int main() {
 	Node *list = (Node*)malloc(sizeof(Node));
