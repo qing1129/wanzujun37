@@ -1,4 +1,4 @@
-#include"maopao.c"
+#include"maopao.h"
 
 int main() {
   int a[8] = {10,100,70,66,99,75,6,25};
